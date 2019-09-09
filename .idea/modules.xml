@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/demo-consul-consumerr/democonsulconsumerr.iml" filepath="$PROJECT_DIR$/demo-consul-consumerr/democonsulconsumerr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-consul-provider/democonsulprovider.iml" filepath="$PROJECT_DIR$/demo-consul-provider/democonsulprovider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-consul-provider-interface/democonsulproviderinterface.iml" filepath="$PROJECT_DIR$/demo-consul-provider-interface/democonsulproviderinterface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-java-common/demojavacommon.iml" filepath="$PROJECT_DIR$/demo-java-common/demojavacommon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-nacos-consumer/demonacosconsumer.iml" filepath="$PROJECT_DIR$/demo-nacos-consumer/demonacosconsumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-nacos-provider/demonacosprovider.iml" filepath="$PROJECT_DIR$/demo-nacos-provider/demonacosprovider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-nacos-provider-interface/demonacosproviderinterface.iml" filepath="$PROJECT_DIR$/demo-nacos-provider-interface/demonacosproviderinterface.iml" />
+    </modules>
+  </component>
+</project>
