@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.wwq.learnMyself</groupId>
+    <artifactId>service-parent</artifactId>
+    <packaging>pom</packaging>
+    <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>demo-java-common</module>
+        <module>demo-consul-provider</module>
+        <module>demo-consul-consumerr</module>
+        <module>demo-nacos-provider</module>
+        <module>demo-nacos-consumer</module>
+        <module>demo-nacos-provider-interface</module>
+        <module>demo-consul-provider-interface</module>
+    </modules>
+
+
+</project>
