@@ -14,6 +14,10 @@
         <module>demo-common</module>
         <module>demo-nacos-consumer</module>
         <module>demo-nacos-consumer-interface</module>
+        <module>demo-consul-provider</module>
+        <module>demo-consul-provider-interface</module>
+        <module>demo-consul-consumer</module>
+        <module>demo-consul-consumer-interface</module>
     </modules>
 
 
