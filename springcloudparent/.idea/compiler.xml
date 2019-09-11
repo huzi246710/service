@@ -7,6 +7,10 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="democommon" />
+        <module name="democonsulconsumer" />
+        <module name="democonsulconsumerinterface" />
+        <module name="democonsulprovider" />
+        <module name="democonsulproviderinterface" />
         <module name="demonacosconsumer" />
         <module name="demonacosconsumerinterface" />
         <module name="demonacosprovider" />
@@ -16,6 +20,7 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="democonsulprovider" options="-parameters" />
       <module name="demonacosconsumer" options="-parameters" />
       <module name="demonacosprovider" options="-parameters" />
     </option>
